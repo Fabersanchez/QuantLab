@@ -1,0 +1,3 @@
+"""
+QuantLab Studio Assets Package.
+"""
